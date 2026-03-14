@@ -112,6 +112,7 @@ This repository contains resources to learn System Design concepts and prepare f
 ## Books
 - [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/B08VL1BLHB/)
 - [System Design Interview – An insider's guide](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF/)
+- [Fundamentals of Software Architecture](https://www.amazon.in/Fundamentals-Software-Architecture-Neal-Ford/dp/1492043451)
 
 ## YouTube Channels
 - [Tech Dummies Narendra L](https://www.youtube.com/@TechDummiesNarendraL)
